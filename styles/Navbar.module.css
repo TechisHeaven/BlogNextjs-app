@@ -1,0 +1,43 @@
+.navbar {
+  justify-content: space-between;
+  display: flex;
+  /* position: fixed; */
+}
+
+.navbar ul {
+  display: flex;
+  flex-direction: row;
+  padding-right:50px;
+}
+
+.navbar ul li {
+  list-style: none;
+  padding: 10px 10px;
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: 500;
+  background-color: rgb(177, 132, 230);
+  border-radius: 40px;
+  margin: 5px 5px;
+}
+
+.navbar ul li:hover {
+  list-style: none;
+  padding: 10px 10px;
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: 500;
+  background-color: rgb(59, 41, 44);
+  border-radius: 40px;
+  color: white;
+}
+
+.navbar ul li a {
+  color: red;
+}
+
+
+.navbar img {
+  width: 100px;
+  display: flex;
+}

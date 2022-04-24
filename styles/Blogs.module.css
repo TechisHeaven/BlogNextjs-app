@@ -1,0 +1,32 @@
+.blogitem{
+    cursor: pointer;
+}
+
+.blogitemh3 title{
+    font-size: bold 2em black;
+}
+
+
+.main{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+/* 
+.blogitemh3 a h3{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+} */
+
+
+
+.heading{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}

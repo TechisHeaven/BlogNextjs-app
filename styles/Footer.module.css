@@ -1,0 +1,21 @@
+.footer {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    background-color: rgb(136, 93, 192);
+    /* flex-direction: row; */
+    position: absolute;
+    left: 0;
+    bottom: -10;
+    width: 100%;
+}
+
+
+.logo{
+    font-size: 30px;
+    color: white;
+}
+
+.logo:hover{
+    color: black;
+}

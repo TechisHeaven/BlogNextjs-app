@@ -1,0 +1,6 @@
+{
+    "title": "Learn nextjs",
+    "content": "Next.js is a React framework that enables several extra features, including server-side rendering and generating static websites.[7] React is a JavaScript library that is traditionally used to build web applications rendered in the client's browser with JavaScript.[8] Developers recognize several problems with this strategy however, such as not catering to users who do not have access to JavaScript or have disabled it, potential security issues, significantly extended page loading times, and it can harm the site's overall search engine optimization.[8] Frameworks such as Next.js sidestep these problems by allowing some or all of the website to be rendered on the server-side before being sent to the client.[8][9] Next.js is one of the most popular frameworks for React.[10] It is one of several recommended toolchains available when starting a new app, all of which provide a layer of abstraction to aid in common tasks.[11] Next.js requires Node.js and can be initialized using Node Package Manager.",
+    "author": "Himanshu verma",
+    "slug": "learn_nextjs"
+}
