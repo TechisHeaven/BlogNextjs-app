@@ -1,0 +1,9 @@
+.Container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.Container p{
+    width: 70%;
+}

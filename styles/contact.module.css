@@ -1,0 +1,21 @@
+.contactform{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.form_group{
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.button{
+    padding-bottom: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}

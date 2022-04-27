@@ -11,6 +11,8 @@
   align-items: center;
 }
 
+
+
 .footer {
   display: flex;
   flex: 1;
@@ -112,4 +114,14 @@
     width: 100%;
     flex-direction: column;
   }
+ 
+}
+
+
+
+
+.MainImg{
+    width:300px;
+    /* height:300px; */
+    border-radius: 50%;
 }
