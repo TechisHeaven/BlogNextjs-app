@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
+import Image from 'next/image'
 export default function Home() {
   return (
     <div className={styles.container}>
@@ -15,7 +16,8 @@ export default function Home() {
         </h1>
         <hr />
         <hr />
-        <img className={styles.MainImg} src="http://cdn.mos.cms.futurecdn.net/WqzWxn2pBqvPN9n4DBrjr5.jpg" alt="blog website photo"  width={300} height={200} />
+        <Image  className={styles.MainImg} src="/HomeImg.jpg" alt="blog website photo"  width={300} height={200}/>
+       
         <div className={styles.blogpost}>
           <div className={styles.blog}>
             <h1>Blog posts </h1>
